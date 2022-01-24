@@ -7,3 +7,19 @@
 html {
     font-family: 'Roboto', sans-serif;
 }
+
+.backgroundHeader {
+    height: 70vh;
+    width: 100%;
+}
+
+.TopBar {
+    float: left;
+    width: calc(100% / 3);
+}
+
+header:nth-child(2) {
+    width: 80%;
+    height: 70vh;
+    margin: auto;
+}
